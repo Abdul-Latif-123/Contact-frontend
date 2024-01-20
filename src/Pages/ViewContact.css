@@ -1,0 +1,15 @@
+.addresstabhovselhighlight {
+    color: orange;
+    padding: 10px;
+    background-color: #211f1f;
+    transition: background-color 0.3s;
+}
+
+.addresstabhovselhighlight:hover {
+    color: orange;
+    background-color: #332D2D;
+}
+
+.active {
+    background-color: #332D2D;
+}
